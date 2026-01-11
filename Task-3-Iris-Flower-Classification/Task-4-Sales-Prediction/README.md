@@ -27,6 +27,6 @@ A classification algorithm is used to predict the species of Iris flowers based 
 • Outcome
 The model accurately classifies Iris flowers into their respective species.
 
-• Author
+• Author:
 Manish Shekhawat 
 
