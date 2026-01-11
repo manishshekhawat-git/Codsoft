@@ -1,4 +1,4 @@
- Task 4: Sales Prediction Using Python
+## Task 4: Sales Prediction Using Python
 
 • Overview
 This project predicts future sales based on advertising expenditure using machine learning regression techniques.
